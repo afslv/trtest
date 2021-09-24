@@ -1,0 +1,4 @@
+connection_string: "DefaultEndpointsProtocol=https;AccountName=techradar0;AccountKey=0gANNxqY86OT6Elq8IT0Pw/mH6Pfvm4tTeClhJx6pk1HwkzeteUSTkVdHUoL/rROgSLhj+tqWAFfBKpSfMbOZw==;EndpointSuffix=core.windows.net"
+container_name: "container0"
+key: "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"
+topic_file: "Tags_Search_Terms.tsv"
